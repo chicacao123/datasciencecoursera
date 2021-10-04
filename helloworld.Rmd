@@ -1,0 +1,31 @@
+---
+title: "Rmarkdown with me"
+author: "CHICACAO"
+date: "10/4/2021"
+output: html_document
+---
+Hello world.  
+
+It's **Chi Cacao**.
+
+Imma *add a code here*.    
+
+```{r echo=TRUE}
+print("This is a code")
+```
+
+And a *heading* here: 
+
+## This is a heading  
+
+Now let's try a *bullet list*:  
+
+**Things I enjoy**  
+
++ Harry Potter  
++ Friends  
++ Dumplings  
+
+How about a *quote* here?  
+
+> This is a quote. 
